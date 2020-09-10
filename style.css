@@ -1,0 +1,95 @@
+ body {
+    margin: 0;
+    text-align: center;
+ }
+
+ header {
+     background-color: #b759ff;
+     color: white;
+     padding: 4%;
+     text-align: center;
+ }
+h2 {
+    font-size: 30px;
+}
+
+h3{
+    font-size: 23px;
+}
+
+ p {
+     font-size: 17px;
+ }
+
+ img {
+    width:"70%" ;
+    height: "10%";
+ }
+ 
+/* Css do index */
+ #comodos {
+     background-color: #b759ff;
+     padding-bottom: 25px;
+ }
+
+ .parte0 {
+     padding: 10px;
+     color: #fcfa7e;
+ }
+
+.partes{
+    display: flex;
+}
+
+ .parte1 {
+     border: 1px solid white;
+     width: 30%;
+     margin: 10px 13%;
+     float: left;
+     background-color: white;
+ }
+
+ .parte2{
+     border: 1px solid white;
+     width: 30%;
+     float: right;
+     margin: 10px 13% ;
+     background-color: white;
+ }
+
+ .clearfix {
+     clear: both;
+ }
+
+ /* Acaba CSS do index */
+
+/* Começa a CSS das páginas*/
+nav {
+    display: flex;
+    background-color: #cf96fa;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+h4 {
+    margin: 0px auto;
+}
+
+.legenda {
+    float: right;
+    margin-right: 15%;
+    margin-top: 550px;
+}
+
+.produtosgeral {
+    background-color:#b759ff; 
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}
+
+.produtosreais {
+    border: 5px white solid;
+    margin:  0 30%;
+}
+/* Termina a CSS das páginas*/
